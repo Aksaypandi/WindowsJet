@@ -12,7 +12,7 @@ post_date: 2020-06-05 07:51:05
 <strong><span class="dropcap dropcap1">f</span></strong><strong>ix Error Code 0x80200056: </strong>The <strong>Error Code 0x80200056</strong> will occur in diverse instances. Your Windows 10 system will find out that upgrade or download did not work properly. Not every user who <strong>upgrades to Windows 10 </strong>will get this error, only a few random instances will occur. Therefore, in this tutorial, we will look over the solutions to <strong>Fix Upgrade Error Code 0x80200056 in Windows 10. </strong>
 <h2>Jump To:</h2>
 <ul>
- 	<li><strong><a href="#1">Command Indications</a></strong></li>
+ 	<li><strong><a href="#1">Common Indications</a></strong></li>
  	<li><strong><a href="#2">Reasons for the Error 0x80200056 </a></strong></li>
  	<li><strong><a href="#3">Try Upgrading Again</a></strong></li>
  	<li><strong><a href="#4">Command Prompt Fix</a></strong></li>
