@@ -31,6 +31,8 @@ post_date: 2020-06-06 05:13:00
 </ul>
 <p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">bcdedit /enum all</code></p>
 
+
+[caption id="attachment_2526" align="alignnone" width="859"]<img class="size-full wp-image-2526" src="https://windowsjet.com/wp-content/uploads/2020/06/err1.png" alt="Command Prompt" width="859" height="491" /> Command Prompt[/caption]
 <ul>
  	<li>Under each device option section, there is an identifier. These identifiers are leftovers from your previous installation. These identifiers may be the reason for not upgrading well. <span id="div-gpt-ad-thewindowsclub_com-medrectangle-3-0" class="ezoic-ad ezoic-adl ezfound" data-google-query-id="CIrV2pqt7OkCFUgnjwodC7MFGQ"></span></li>
 </ul>
