@@ -69,7 +69,7 @@ You have to download the Windows Media Creation tool no matter which methods you
  	<li>Double-click on the <strong>Setup</strong> file and wait until the upgrade is done.</li>
 </ol>
 <h2 id="4">Summary:</h2>
-By following the solutions discussed in this article, you can <strong>Fix Windows Error Code 0xc7700112 </strong>easily. We expect that these steps with clear-cut screenshots let you understand succinctly. If you have any queries, kindly share it in the below comment box. Thanks for visiting <a href="https://windowsjet.com/"><strong>Windows Jet</strong></a>.
+By following the solutions discussed in this article, you can <strong>Fix Windows Error Code 0xc7700112 </strong>easily. We expect that these clear-cut steps let you understand the method succinctly. If you have any queries, kindly share it in the below comment box. Thanks for visiting <a href="https://windowsjet.com/"><strong>Windows Jet</strong></a>.
 <h2>Related Articles:</h2>
 <ul>
  	<li><strong><a class="LinkSuggestion__Link-sc-1mdih4x-2 jZPuuT" href="https://windowsjet.com/solved-how-to-fix-windows-10-upgrade-error-code-0x80200056-2494/" target="_blank" rel="noopener noreferrer">[Solved] How to Fix Windows 10 Upgrade Error Code 0x80200056?</a></strong></li>
