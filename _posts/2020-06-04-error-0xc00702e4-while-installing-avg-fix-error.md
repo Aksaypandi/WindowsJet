@@ -28,7 +28,7 @@ The two solutions are given below to help you to solve the AVG install error eas
 <h3 id="2">Solution 1: Uninstall Conflicting Programs</h3>
 You may get this error because you have already installed other Antivirus programs in your system. If you have Avast, Norton, etc., then you have to uninstall it first.
 <ul>
- 	<li>You just go to <strong>Control panel -&gt; Uninstall Programs</strong> and look over the list of programs that are installed on your device.</li>
+ 	<li>You just go to <strong>Control panel -&gt; Uninstall a program</strong> and look over the list of programs that are installed on your device.</li>
  	<li>Locate any antivirus software and uninstall it.</li>
  	<li>After that, try to install the AVG software so you will not get any error.</li>
 </ul>
