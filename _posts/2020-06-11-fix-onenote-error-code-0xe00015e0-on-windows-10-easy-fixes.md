@@ -34,7 +34,7 @@ post_date: 2020-06-11 06:33:07
 [caption id="attachment_2419" align="aligncenter" width="855"]<img class="size-full wp-image-2419" src="https://windowsjet.com/wp-content/uploads/2020/06/ec6.png" alt="Control Panel" width="855" height="666" /> Control Panel[/caption]</li>
  	<li>Now, you have to click on <strong>Programs</strong>.
 
-[caption id="attachment_529" align="aligncenter" width="900"]<img class="size-full wp-image-529" src="https://cdn.statically.io/img/windowsjet.com/f=auto%2Cq=90/wp-content/uploads/2020/04/Screenshot_2-10.png" alt="Programs" width="900" height="500" /> Programs[/caption]</li>
+[caption id="attachment_529" align="aligncenter" width="900"]<img class="size-full wp-image-529" src="https://windowsjet.com/wp-content/uploads/2020/04/Screenshot_2-10.png" alt="Programs" width="900" height="500" /> Programs[/caption]</li>
  	<li>Under <strong>Programs and Features</strong>, you have to tap on <strong>'</strong><b><b>Run programs made for previous versions of Windows'.</b></b>
 
 [caption id="attachment_2627" align="aligncenter" width="795"]<img class="size-full wp-image-2627" src="https://windowsjet.com/wp-content/uploads/2020/06/on1.png" alt="Run programs made for previous versions of Windows" width="795" height="501" /> Run programs made for previous versions of Windows[/caption]</li>
