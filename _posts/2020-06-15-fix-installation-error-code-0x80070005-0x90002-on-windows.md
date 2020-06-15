@@ -63,7 +63,7 @@ post_date: 2020-06-15 04:47:55
  	<li>After that, try to upgrade your PC.</li>
 </ul>
 <h2 id="4">Conclusion:</h2>
-We hope that after following the above two methods installation error 0x80070005-0x90002 gets fixed. You don't require any technical skills to <strong>Fix Installation Error Code 0x80070005-0x90002 on Windows</strong><strong> </strong>as the solutions given above are simple to execute. Kindly share your <strong>valuable comments</strong> in the below box. Thanks for visiting <a href="https://windowsjet.com/"><strong>Windows Jet</strong></a>.
+We hope that after following the above three methods installation error 0x80070005-0x90002 gets fixed. You don't require any technical skills to <strong>Fix Installation Error Code 0x80070005-0x90002 on Windows</strong><strong> </strong>as the solutions given above are simple to execute. Kindly share your <strong>valuable comments</strong> in the below box. Thanks for visiting <a href="https://windowsjet.com/"><strong>Windows Jet</strong></a>.
 <h2>Related Articles:</h2>
 <ul>
  	<li><strong><a class="LinkSuggestion__Link-sc-1mdih4x-2 jZPuuT" href="https://windowsjet.com/how-to-fix-windows-error-code-0x80070057-simple-solutions-2396/" target="_blank" rel="noopener noreferrer">How to Fix Windows Error Code 0x80070057? { Simple Solutions}</a></strong></li>
