@@ -71,22 +71,25 @@ post_date: 2020-06-19 05:19:57
  	<li>Go to the <strong>Start</strong> menu. In the search box, you have to type <strong>'command prompt'</strong>. Then press <b>Ctrl + Shift + </b><strong>Enter</strong> to open the Command Prompt with admin privileges.</li>
  	<li>You just have to run the below commands one by one on the command prompt and hit <strong>Enter </strong>after each command.</li>
 </ul>
-<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net stop wuauserv
-net stop cryptSvc
-net stop bits
-net stop msiserver</code>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net stop wuauserv</code></p>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net stop cryptSvc</code></p>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net stop bits</code></p>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net stop msiserver</code></p>
+
 <ul>
  	<li>Next, you have to rename the SoftwareDistribution and Catroot2 folders. To do so, you have to run the below commands one by one and hit <strong>Enter</strong> after each command.</li>
 </ul>
-<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">ren C:\Windows\SoftwareDistribution SoftwareDistribution.old
-ren C:\Windows\System32\catroot2 Catroot2.old</code>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">ren C:\Windows\SoftwareDistribution SoftwareDistribution.old</code></p>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">ren C:\Windows\System32\catroot2 Catroot2.old</code></p>
+
 <ul>
  	<li>Then, you have to start the services. So, you have to run the below commands one by one and hit <strong>Enter</strong> after each command.</li>
 </ul>
-<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net start wuauserv
-net start cryptSvc
-net start bits
-net start msiserver</code>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net start wuauserv</code></p>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net start cryptSvc</code></p>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net start bits</code></p>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net start msiserver</code></p>
+
 <ul>
  	<li>At last, you have to close the Command Prompt windows and reboot your system and then try to upgrade your device.</li>
 </ul>
