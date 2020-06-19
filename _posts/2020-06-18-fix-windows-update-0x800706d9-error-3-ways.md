@@ -43,8 +43,12 @@ Firstly, to <strong>check</strong> your system for corrupted and inactive files.
  	<li>The <strong>Services</strong> window gets open, in that Locate <strong><strong>Windows Firewall or Windows Defender Firewall.</strong></strong>
 
 [caption id="attachment_2704" align="aligncenter" width="795"]<img class="size-full wp-image-2704" src="https://windowsjet.com/wp-content/uploads/2020/06/Screenshot_2.png" alt="Services" width="795" height="586" /> Services[/caption]</li>
- 	<li>Then right-click on it and select <strong>Properties</strong>.</li>
- 	<li>In the properties window, check whether the box of <strong>Startup </strong>type is set to <strong>Automatic</strong>.</li>
+ 	<li>Then right-click on it and select <strong>Properties</strong>.
+
+[caption id="attachment_2724" align="aligncenter" width="752"]<img class="size-full wp-image-2724" src="https://windowsjet.com/wp-content/uploads/2020/06/Screenshot_3.png" alt="Properties" width="752" height="532" /> Properties[/caption]</li>
+ 	<li>In the properties window, check whether the box of <strong>Startup </strong>type is set to <strong>Automatic</strong>.
+
+[caption id="attachment_2725" align="aligncenter" width="404"]<img class="size-full wp-image-2725" src="https://windowsjet.com/wp-content/uploads/2020/06/Screenshot_4.png" alt="Automatic" width="404" height="464" /> Automatic[/caption]</li>
  	<li>Then, if you made any changes, click <strong>Apply</strong>.</li>
  	<li>Finally, click <strong>OK</strong>.</li>
 </ul>
