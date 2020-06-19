@@ -35,7 +35,7 @@ This error code will occur when Windows try to download identical hardware for a
 </ul>
 <h2 id="2">Fix 2 - Delete and Reinstall the Driver Software:</h2>
 <ul>
- 	<li>Hit <strong>Windows key + X</strong> and then click on the <strong>Device Manager </strong>option.
+ 	<li>Hit <strong>Windows key + X</strong> to open the Power User menu and then click on the <strong>Device Manager </strong>option.
 
 [caption id="attachment_2748" align="aligncenter" width="652"]<img class="size-full wp-image-2748" src="https://windowsjet.com/wp-content/uploads/2020/06/er1.png" alt="Device Manager" width="652" height="581" /> Device Manager[/caption]</li>
  	<li>In the <strong>Device Manager</strong> window, you have to right-click on the device and choose the <strong>Uninstall device</strong>.</li>
