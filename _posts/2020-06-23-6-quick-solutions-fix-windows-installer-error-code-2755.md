@@ -1,6 +1,6 @@
 ---
 ID: 2870
-post_title: '(*6 Quick Solutions*) Fix Windows Installer Error Code 2755!!'
+post_title: 'Fix Windows Installer Error Code 2755!! (*6 Quick Solutions*)'
 author: Ankita Singh
 post_excerpt: ""
 layout: post
