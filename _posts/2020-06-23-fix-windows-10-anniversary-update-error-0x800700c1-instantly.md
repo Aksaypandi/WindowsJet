@@ -1,6 +1,6 @@
 ---
 ID: 2892
-post_title: 'Fix Windows 10 Anniversary Update Error 0x800700c1!! {INSTANTLY]'
+post_title: 'Fix Windows 10 Anniversary Update Error 0x800700c1!! [INSTANTLY]'
 author: Ankita Singh
 post_excerpt: ""
 layout: post
