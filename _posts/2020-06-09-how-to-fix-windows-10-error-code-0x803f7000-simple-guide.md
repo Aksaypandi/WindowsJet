@@ -12,16 +12,12 @@ post_date: 2020-06-09 08:00:04
 <strong><span class="dropcap dropcap1">F</span></strong><strong>ix Windows 10 Error Code 0x803f7000: </strong>The error code <strong>0x803f7000 </strong>appears when there is an issue while downloading apps from Windows Store. If you try to download any app or game, it will take you to Downloads in the Store app. You will see the error code when you click the see details link. It indicates that the date and time or region settings in your system are incorrect. Even, there can be issues with the Windows store cache. So, in this tutorial, we will look over the steps on how to <strong>Fix Windows 10 Error Code 0x803f7000. </strong>
 <h2>Jump To:</h2>
 <ul>
- 	<li style="list-style-type: none;">
-<ul>
  	<li><strong><a href="#1">Reasons behind this error</a></strong></li>
  	<li><strong><a href="#2">Correct the Date and Time</a></strong></li>
  	<li><strong><a href="#3">Setting Region Correctly</a></strong></li>
  	<li><strong><a href="#4">Reset Windows Store</a></strong></li>
  	<li><strong><a href="#5">Ensure Windows Firewall Not Blocking App</a></strong></li>
  	<li><strong><a href="#6">Summary</a></strong></li>
-</ul>
-</li>
 </ul>
 <h2 id="1">Reasons behind this error:</h2>
 <ul>
