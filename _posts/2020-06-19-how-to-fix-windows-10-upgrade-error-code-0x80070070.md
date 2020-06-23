@@ -60,7 +60,7 @@ post_date: 2020-06-19 05:19:57
  	<li>In the left pane, you have to tap on the <strong>Troubleshoot</strong> option.
 
 [caption id="attachment_2718" align="aligncenter" width="844"]<img class="size-full wp-image-2718" src="https://windowsjet.com/wp-content/uploads/2020/06/ue3-2.png" alt="Troubleshoot" width="844" height="484" /> Troubleshoot[/caption]</li>
- 	<li>Then, you have to select <b>Windows Update </b>under <strong>‘Find and fix other problems’</strong>.</li>
+ 	<li>Then, you have to select <b>Windows Update </b>under <strong>‘Get up and running’</strong>.</li>
  	<li>Next, you have to click on <strong>Run the troubleshooter</strong> button.
 
 [caption id="attachment_2719" align="aligncenter" width="841"]<img class="size-full wp-image-2719" src="https://windowsjet.com/wp-content/uploads/2020/06/ue4-1.png" alt="Windows Update Troubleshoot" width="841" height="519" /> Windows Update Troubleshoot[/caption]</li>
