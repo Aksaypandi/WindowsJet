@@ -38,8 +38,8 @@ Here some fixes are listed below.
  	<li><strong>Install</strong> the version that is compatible with the type of your <strong>PC</strong>.</li>
  	<li>Use the <strong>below</strong> <strong>links</strong> to install.</li>
 </ul>
-<blockquote><a href="http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/10/windows10.0-kb3194798-x86_30ca81056fa468110773767f5b3de65711809c90.msu"><strong>KB3194798 x86</strong></a>
-<a href="http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/10/windows10.0-kb3194798-x64_8bc6befc7b3c51f94ae70b8d1d9a249bb4b5e108.msu"><strong>KB3194798 x64</strong></a></blockquote>
+<a href="http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/10/windows10.0-kb3194798-x86_30ca81056fa468110773767f5b3de65711809c90.msu"><strong>KB3194798 x86</strong></a>
+<a href="http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/10/windows10.0-kb3194798-x64_8bc6befc7b3c51f94ae70b8d1d9a249bb4b5e108.msu"><strong>KB3194798 x64</strong></a>
 <h2 id="5">Use Windows Update Troubleshooter:</h2>
 <ol>
  	<li style="list-style-type: none;">
