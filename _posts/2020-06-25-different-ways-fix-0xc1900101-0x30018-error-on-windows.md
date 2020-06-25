@@ -91,7 +91,7 @@ net stop msiserver</code></pre>
 ren C:\Windows\System32\catroot2 Catroot2.old</code></pre>
 </li>
  	<li>To <strong>disabled</strong> before, once you did enable BITS, Cryptographic, MSI Installer, and Windows Update Services.</li>
- 	<li><strong>Copy and paste</strong> the following commands in the Command Prompt window.</li>
+ 	<li><strong>Copy and paste </strong>the following commands in the Command Prompt window.</li>
  	<li>Press <strong>Enter</strong>.
 <pre><code>net start wuauserv
 net start cryptSvc
