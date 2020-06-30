@@ -37,23 +37,23 @@ post_date: 2020-06-30 16:10:14
 [caption id="attachment_2803" align="aligncenter" width="476"]<img class="size-full wp-image-2803" src="https://windowsjet.com/wp-content/uploads/2020/06/Screenshot_1-2.png" alt="Start Menu" width="476" height="769" /> Start Menu[/caption]</li>
  	<li>Now, <strong>type</strong> the following commands in your Command Prompt window.</li>
  	<li>Press <strong>Enter</strong> after each of the commands.
-<pre><code>net stop bits
-net stop wuauserv
-net stop appidsvc
-net stop cryptsvc</code></pre>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net stop bits</code></p>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net stop wuauserv</code></p>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net stop appidsvc</code></p>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net stop cryptsvc</code></p>
 </li>
  	<li>To <strong>rename</strong> the software distribution folders backup copies.</li>
  	<li><strong>Copy and Paste</strong> the following commands.</li>
  	<li>Press <strong>Enter</strong> after each of the commands.
-<pre><code>Ren %systemroot%\SoftwareDistribution SoftwareDistribution.bak
-Ren %systemroot%\system32\catroot2 catroot2.bak</code></pre>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">Ren %systemroot%\SoftwareDistribution SoftwareDistribution.bak</code></p>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">Ren %systemroot%\system32\catroot2 catroot2.bak</code></p>
 </li>
  	<li>Now, to <strong>restart</strong> Windows Update components <strong>type</strong> the following commands.</li>
  	<li>Press <strong>Enter</strong> after each of the commands.
-<pre><code>net start appidsvc
-net start cryptsvc
-net start bits
-net start wuauserv</code></pre>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net start appidsvc</code></p>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net start cryptsvc</code></p>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net start bits</code></p>
+<p style="background: #4a47ff;"><code style="background: #4a47ff; color: white;">net start wuauserv</code></p>
 </li>
  	<li>Now, <strong>close </strong>the Command Prompt window and <strong>reboot your PC.</strong></li>
 </ol>
