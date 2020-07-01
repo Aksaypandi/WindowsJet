@@ -30,8 +30,6 @@ post_date: 2020-07-01 16:21:57
 </ol>
 <h2>Malware Detection Software:</h2>
 <ul>
- 	<li style="list-style-type: none;">
-<ul>
  	<li>When you s<strong>uspect malware</strong> has affected your PC.</li>
  	<li>Then, the <strong>first thing</strong> is you should scan the device with<strong> malware-detection software.</strong></li>
  	<li>If you don't have any software to <strong>scan</strong>.</li>
@@ -44,8 +42,6 @@ post_date: 2020-07-01 16:21:57
 [caption id="attachment_2738" align="aligncenter" width="497"]<img class="size-full wp-image-2738" src="https://windowsjet.com/wp-content/uploads/2020/06/Screenshot_8.png" alt="Reimage" width="497" height="386" /> Reimage[/caption]
 
 [caption id="attachment_2739" align="aligncenter" width="788"]<img class="wp-image-2739 size-full" src="https://windowsjet.com/wp-content/uploads/2020/06/Screenshot_9.png" alt="Scanning" width="788" height="567" /> Scanning[/caption]</li>
-</ul>
-</li>
 </ul>
 <h2>Clean up your system:</h2>
 Step 1: In the task Manager, <strong>End Task</strong> all the running suspicious processes.
