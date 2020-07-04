@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2020-07-04 16:58:52
 ---
-<strong>Fix Windows Store Error 0x8024600e on Windows: </strong>This error occurs when trying to <strong>install or update Microsoft Store</strong> and mainly prevails on <strong>Windows 8 and Windows 10.</strong> Read this tutorial to know some fixes to<strong> Fix Windows Store Error 0x8024600e on Windows.</strong>
+<strong><span class="dropcap dropcap1">F</span>ix Windows Store Error 0x8024600e on Windows: </strong>This error occurs when trying to <strong>install or update Microsoft Store</strong> and mainly prevails on <strong>Windows 8 and Windows 10.</strong> Read this tutorial to know some fixes to<strong> Fix Windows Store Error 0x8024600e on Windows.</strong>
 <h2>Table of Contents:</h2>
 <ul>
  	<li><a href="#1"><strong>Create the missing Temporary Internet Files</strong></a></li>
