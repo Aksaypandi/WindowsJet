@@ -25,13 +25,12 @@ Follow the below steps to Create the missing Temporary Internet Files in simple 
 
 [caption id="attachment_3296" align="aligncenter" width="446"]<img class="size-full wp-image-3296" src="https://windowsjet.com/wp-content/uploads/2020/07/explorer_PqoKeohtge.png" alt="Run command" width="446" height="257" /> Run command[/caption]</li>
  	<li>In the <strong>Registry</strong> <strong>Editor</strong> window, Go to the <strong>following</strong> path on the left pane.
-<pre><code>HKEY_CURRENT_USER\Software\Microsoft\
-Windows\CurrentVersion\Explorer\User Shell Folders</code></pre>
+<pre>HKEY_CURRENT_USER\Software\Microsoft\ Windows\CurrentVersion\Explorer\User Shell Folders</pre>
 </li>
  	<li>Then in the right pane, locate <strong>Cache</strong>.</li>
  	<li><strong>Double-click</strong> on the <strong>cache</strong> and the <strong>Edit</strong> <strong>string</strong> dialog box gets <strong>open</strong>.</li>
  	<li>In the Value data box type the <strong>following</strong> path.
-<pre><code>%USERPROFILE%\AppData\Local\Microsoft\Windows\Temporary Internet Files Value</code></pre>
+<pre>%USERPROFILE%\AppData\Local\Microsoft\Windows\Temporary Internet Files Value</pre>
 </li>
  	<li>Click <strong>OK</strong>.
 
